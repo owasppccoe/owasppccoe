@@ -1,7 +1,7 @@
 # OWASP PCCOE
 
 <p align="center">
-  <img src="https://owasp-pccoe.vercel.app/logo.png" alt="OWASP PCCOE Logo" width="200"/>
+  <img src="https://owasp-pccoe.vercel.app/owasp-main.png" alt="OWASP PCCOE Logo" width="200"/>
 </p>
 
 <p align="center">
