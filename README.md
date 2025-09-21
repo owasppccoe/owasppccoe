@@ -1,7 +1,7 @@
 # OWASP PCCOE
 
 <p align="center">
-  <img src="https://owasp-pccoe.vercel.app/owasp-main.png" alt="OWASP PCCOE Logo" width="200"/>
+  <img src="https://owasppccoe.vercel.app/owasp-main.png" alt="OWASP PCCOE Logo" width="200"/>
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ We’ll be sharing:
 We welcome students passionate about **Cybersecurity, Ethical Hacking, and Open-Source**.  
 Stay updated with our activities and contribute to the mission!  
 
-📌 **Follow us here on GitHub** and on our [Website](https://owasp-pccoe.vercel.app/).  
+📌 **Follow us here on GitHub** and on our [Website](https://owasppccoe.vercel.app/).  
 
 ---
 
